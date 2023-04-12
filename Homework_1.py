@@ -1,6 +1,8 @@
 # Name: Joonhyeong Kim
 # SBUID: 114001304
-
+##################### SCORE ######################
+####### Very good work Score:  10/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
